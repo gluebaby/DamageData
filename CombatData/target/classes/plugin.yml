@@ -1,6 +1,0 @@
-name: DamageData
-version: 1
-main: me.gluebaby.combatlogger.CombatLogger
-api-version: 1.16
-commands:
-  dmghistory: 
