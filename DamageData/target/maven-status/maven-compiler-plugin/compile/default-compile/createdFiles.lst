@@ -1,0 +1,10 @@
+me\gluebaby\combatlogger\damagelogger\DamageEvent$1.class
+me\gluebaby\combatlogger\damagelogger\DamageEvent.class
+me\gluebaby\combatlogger\frontend\DataMenu.class
+me\gluebaby\combatlogger\managers\GuiManager.class
+me\gluebaby\combatlogger\CombatLogger.class
+me\gluebaby\combatlogger\frontend\CommandHandler.class
+me\gluebaby\combatlogger\handlers\DataHandler.class
+me\gluebaby\combatlogger\handlers\DamageCompat.class
+me\gluebaby\combatlogger\handlers\PlayerCompat.class
+me\gluebaby\combatlogger\managers\DamageManager.class
